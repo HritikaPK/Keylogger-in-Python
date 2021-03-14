@@ -1,5 +1,5 @@
 # Title: Keylogger in Python
-# By: Hritika Kalghatgi
+# By: Hritika K.
 
 
 import pynput
